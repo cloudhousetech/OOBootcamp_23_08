@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OoBootCamp.Tests")]
+[assembly: AssemblyTitle("OoBootCamp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OoBootCamp.Tests")]
+[assembly: AssemblyProduct("OoBootCamp")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dda2a6d1-a107-48e9-9f15-fd9afad42e01")]
+[assembly: Guid("5863d5ff-ba58-4e4c-a1bd-67807cbfbbea")]
 
 // Version information for an assembly consists of the following four values:
 //

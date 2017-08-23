@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OoBootCamp\OoBootCamp.csproj">
+    <ProjectReference Include="OoBootCamp.csproj">
       <Project>{5863D5FF-BA58-4E4C-A1BD-67807CBFBBEA}</Project>
       <Name>OoBootCamp</Name>
     </ProjectReference>
