@@ -1,0 +1,9 @@
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\bin\Debug\OoBootCamp.Tests.dll
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\bin\Debug\OoBootCamp.Tests.pdb
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\bin\Debug\nunit.framework.dll
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\bin\Debug\OoBootCamp.dll
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\bin\Debug\OoBootCamp.pdb
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\bin\Debug\nunit.framework.xml
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\obj\Debug\OoBootCamp.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\obj\Debug\OoBootCamp.Tests.dll
+C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\obj\Debug\OoBootCamp.Tests.pdb
