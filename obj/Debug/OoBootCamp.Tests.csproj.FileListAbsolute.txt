@@ -7,3 +7,10 @@ C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\bin\Debug\nunit.framework
 C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\obj\Debug\OoBootCamp.Tests.csprojResolveAssemblyReference.cache
 C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\obj\Debug\OoBootCamp.Tests.dll
 C:\Dev\oo_boot_camp_2017-08-14_csharp\OoBootCamp.Tests\obj\Debug\OoBootCamp.Tests.pdb
+C:\Devtest\OOBootcamp_23_08\bin\Debug\OoBootCamp.Tests.dll
+C:\Devtest\OOBootcamp_23_08\bin\Debug\OoBootCamp.Tests.pdb
+C:\Devtest\OOBootcamp_23_08\bin\Debug\OoBootCamp.pdb
+C:\Devtest\OOBootcamp_23_08\bin\Debug\nunit.framework.xml
+C:\Devtest\OOBootcamp_23_08\obj\Debug\OoBootCamp.Tests.csprojResolveAssemblyReference.cache
+C:\Devtest\OOBootcamp_23_08\obj\Debug\OoBootCamp.Tests.dll
+C:\Devtest\OOBootcamp_23_08\obj\Debug\OoBootCamp.Tests.pdb
